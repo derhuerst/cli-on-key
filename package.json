@@ -1,0 +1,25 @@
+{
+	"name": "@derhuerst/cli-on-key",
+	"description": "Read command line key presses from process.stdin.",
+	"version": "0.1.0",
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"command line",
+		"cli",
+		"key",
+		"keypress",
+		"stdin",
+		"event"
+	],
+	"author": "Jannis R <mail@jannisr.de>",
+	"homepage": "https://github.com/derhuerst/cli-on-key",
+	"repository": "derhuerst/cli-on-key",
+	"bugs": "https://github.com/derhuerst/cli-on-key/issues",
+	"license": "ISC",
+	"engines": {
+		"node": ">=6"
+	}
+}
